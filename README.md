@@ -80,6 +80,34 @@ Created a Power BI dashboard with three main reports:
 •Conducted segmentation of markets and customer types based on Sales Quantity and Revenue.
 
 
+### Insights from Dashboard: 
+
+#### Delhi Performance:
+
+-Delhi accounts for 54.65% of total revenue but has a low profit margin of 0.59%, indicating potential cost issues or pricing inefficiencies that result in a poor ROI.
+
+-The highest-value customer in Delhi is Electricaksara Stores, yet they contribute a minimal profit margin of 0.35%.
+Customers with Reduced Profit Margins:
+
+-Customers such as Epic Stores, Insight, Electricalsquipo Stores, Synthetic, Integration Stores, and Expression have experienced declining profit margins. These customers may require price adjustments or renegotiations to improve profitability.
+
+#### Bhubaneswar Performance:
+
+-Bhubaneswar has low revenue but a remarkable profit margin of 10.48%, showcasing effective cost control or pricing strategies.
+
+#### E-Commerce Growth:
+
+-E-commerce sales revenue increased significantly from 33.34M in 2017 to 60.68M in 2020, highlighting a growing preference for online shopping.
+
+#### Overall Sales Decline:
+
+- sales dropped from 15.9M in 2019 to 7.9M in 2020, reflecting the impact of the pandemic on business performance.
+
+#### Top-Selling Product:
+
+-Product 113 is the best-performing product in Bhubaneswar, achieving a 29% profit margin, underscoring its profitability in the region.
+
+
 
 
 
